@@ -1,4 +1,4 @@
-# Your Voice <img src="assets/logo.png" alt="Your Voice pixel-art speech bubble and text cursor" align="right" width="80">
+# Your Voice <img src="assets/logo.png" alt="Your Voice pixel-art speech bubble and text cursor" width="48">
 
 **Make AI sound like you.**
 
