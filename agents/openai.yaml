@@ -1,0 +1,4 @@
+interface:
+  display_name: "Your Voice"
+  short_description: "Restore your writing voice in three measured passes"
+  default_prompt: "Use $your-voice to find comparable examples of my writing, remove formulaic prose, and restore my voice in three measured passes."
